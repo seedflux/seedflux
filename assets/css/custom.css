@@ -1,0 +1,17 @@
+.link-inaturalist {
+  background: rgb(42, 123, 155);
+  background: linear-gradient(
+  	90deg,rgba(42, 123, 155, 1) 0%, 
+  	rgba(87, 199, 133, 1) 50%, 
+  	rgba(237, 221, 83, 1) 100%
+  );
+}
+
+.link-ebird {
+  background: rgb(9, 9, 121);
+  background: linear-gradient(
+  	90deg,rgba(9, 9, 121, 1) 0%, 
+  	rgba(12, 12, 179, 1) 41%, 
+  	rgba(7, 184, 219, 1) 83%
+  );
+}
