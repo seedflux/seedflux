@@ -18,8 +18,8 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://www.inaturalist.org/people/dvdme" },
-    # { ebird = { href = "https://ebird.org/profile/MzgwODk4N", text = "eBird" } },
     { inaturalist = { href = "https://www.inaturalist.org/people/dvdme", text = "iNaturalist" } },
+    { ebird = { href = "https://ebird.org/profile/MzgwODk4N", text = "eBird" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
