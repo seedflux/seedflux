@@ -6,6 +6,10 @@ theme = 'lynx'
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params.author]
   name = "David Matos"
   headline = "seedflux profiles"
